@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Im**Konstantinos Tsaousis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Constantinos Tsaousis** !
 
-Here are some things about me to get you started:
+Here are some facts about me:
 
 - 🔭 I’m currently working on 
 - :thinking: I’m interested in Software Engineering and -Dev, AI, Game Dev, IT, Control Theory, Robotics, Computer Vision
