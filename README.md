@@ -6,5 +6,5 @@ I'm **Constantinos Tsaousis** !
 - :office: Right now I am a Data Scientist for Cognity S.A. mostly working on various exciting NLP projects in the Greek Language using BERT.
 - :school: I am also a final year student in ECE class of NTUA!
 -  📫 How to reach me: tsaousiscosta@gmail.com , ktsaousis@cognity.gr
-
+ 
 
